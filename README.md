@@ -1,5 +1,5 @@
 # ICOT
-Interpretable clustering
+Interpretable clustering using optimal decision trees
 
 Here the code and experiments are presented based on the formulation in "Bertsimas, D., Dunn, J. (2021). Interpretable clustering: an optimization approach" with some changes in formulation of MIO. Also the tree was constructed for interpretability of the results.
 
