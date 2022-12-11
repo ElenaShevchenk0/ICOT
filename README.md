@@ -5,7 +5,7 @@ Here the code and experiments are presented based on the formulation in "Bertsim
 
 Code is presented along with experiments on different simulated data sets. 
 
-<mark>icot.py</mark> contains class InterpretableClusteringOptimalTree and function tree_picture.
+`icot.py` contains class InterpretableClusteringOptimalTree and function tree_picture.
 
 Remark:
 Warm starts have not been implemented yet. Hence ICOT implemented here may be used on data sets of small size and with maximum depth of 2-3. The structure of clusters also has impact on the time of execution: "better" separated clusters provide better performance.
